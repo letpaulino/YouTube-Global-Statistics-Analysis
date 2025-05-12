@@ -95,9 +95,7 @@ youtube-global-stats/
 
 ---
 
-## ✨ Author
-
-**Leticia Paulino**  
+## ✨ Leticia Paulino
 [LinkedIn](https://www.linkedin.com/in/paulino-leticia/) · [GitHub](https://github.com/letpaulino)
 
 > ⭐ If you enjoyed this project, please consider leaving a star!
